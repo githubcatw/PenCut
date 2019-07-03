@@ -1,17 +1,14 @@
-# TenCut
-**WARNING: This app simulates the S10/S10e hole-punch display. Earlier versions simulated A8s, and most of the app needs a rewrite to add S10+ hole simulation!**
+# PenCut
 
-You saw Unpacked 2019. You probably heard of Samsung's new Galaxy S10.
+You probably heard of Samsung's new Galaxy Note10.
 
-You probably noticed the large camera hole on the S10 (and the even larger one on the S10+).
+You wanted to flex on your friends/try out the Note10 very early.
 
-Your friends who got the S10 probably said it's not that noticeable, and that you haven't tried it yourself.
-
-Well, you won't pay $899 just to test it (and you've got a good phone already, so no point in upgrading). **And now, you don't need to!**
+Well, you 100% won't get a unit to test it. **And now, you don't need to!**
 
 Introducing **TenCut, a simulation of the Galaxy S10's camera hole for any Android device**, so you could feel how it's like.
 
-_If you didn't read the small text on the bottom of the repo name, this is a fork of [XOutOf10](https://github.com/idoideas/XOutOf10)._
+_If you didn't read the small text on the bottom of the repo name, this is a fork of [TenCut](https://github.com/githubcatw/TenCut), which itself is a fork of [XOutOf10](https://github.com/idoideas/XOutOf10)._
 
 ## Download
 
