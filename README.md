@@ -6,7 +6,7 @@ You wanted to flex on your friends/try out the Note10 very early.
 
 Well, you 100% won't get a unit to test it. **And now, you don't need to!**
 
-Introducing **TenCut, a simulation of the Galaxy S10's camera hole for any Android device**, so you could feel how it's like.
+Introducing **PenCut, a simulation of the Galaxy S10's camera hole for any Android device**, so you could feel how it's like.
 
 _If you didn't read the small text on the bottom of the repo name, this is a fork of [TenCut](https://github.com/githubcatw/TenCut), which itself is a fork of [XOutOf10](https://github.com/idoideas/XOutOf10)._
 
