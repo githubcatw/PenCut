@@ -1,14 +1,16 @@
 # PenCut
 
-You probably heard of Samsung's new Galaxy Note10.
+You saw Unpacked 2019. You probably heard of Samsung's new Galaxy Note10.
 
-You wanted to flex on your friends/try out the Note10 very early.
+You probably noticed the large, centered camera hole on the Note10.
 
-Well, you 100% won't get a unit to test it. **And now, you don't need to!**
+Your friends who got the Note10 probably said it's not that noticeable, and that you haven't tried it yourself.
 
-Introducing **PenCut, a simulation of the Galaxy S10's camera hole for any Android device**, so you could feel how it's like.
+Well, you won't pay $950 just to test it (and the regular Note10 is a downgrade). **And now, you don't need to!**
 
-_If you didn't read the small text on the bottom of the repo name, this is a fork of [TenCut](https://github.com/githubcatw/TenCut), which itself is a fork of [XOutOf10](https://github.com/idoideas/XOutOf10)._
+Introducing **PenCut, a simulation of the Galaxy Note10's camera hole for any Android device**, so you could feel how it's like.
+
+_This is a fork of [TenCut](https://github.com/githubcatw/TenCut), which itself is a fork of [XOutOf10](https://github.com/idoideas/XOutOf10)._
 
 ## Download
 
